@@ -5,6 +5,6 @@ export default function robots() {
 			allow: ["/"],
 			disallow: ["/login/", "/sign-up/"],
 		},
-		sitemap: "https://acme.com/sitemap.xml",
+		sitemap: "https://my-first-nextjs-website.vercel.app/sitemap.xml",
 	};
 }
