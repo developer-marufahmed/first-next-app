@@ -1,7 +1,0 @@
-import React from "react";
-
-const robots = () => {
-	return <div>Robots</div>;
-};
-
-export default robots;
